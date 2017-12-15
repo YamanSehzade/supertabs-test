@@ -9,6 +9,7 @@ import { Tab_2Page } from './tab-2';
   ],
   imports: [
     IonicPageModule.forChild(Tab_2Page),
+    SuperTabsModule
   ],
 })
 export class Tab_2PageModule {}
